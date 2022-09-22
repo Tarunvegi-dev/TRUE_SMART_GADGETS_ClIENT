@@ -6,6 +6,13 @@ body {
     overflow-x: hidden;
 }
 
+.suggestions {
+    min-height: 500px;
+    margin-top: 30px;
+    margin-left: -350px;
+    margin-right: 100px;
+}
+
 .form-control,
 .form-select {
     padding: 10px;
